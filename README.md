@@ -14,4 +14,4 @@ A 30-day challenge to practice coding daily, improve problem-solving skills, and
                                               element from array.
                                               
 |03 |Find the duplicate element from array  |Implemented solution in java. In that i use temp array by default as 0 . i check each element and assign 1 into the temp array. if i ecountered same array element                                                     second time then in temp array it will become 2 becoz i already check that element like this is i check if temp array has 1 then i return it as duplicate array
-|04 |
+|05|Find the leaders in array               |Implemented solution in java. In that i use arraylist to store new array result of leaders. also i understand that the last element of array is always the leader in                                                   array, and how to use the arraylist i learned use case and implemented in this with method reverse() 
